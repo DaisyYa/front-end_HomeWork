@@ -1,0 +1,179 @@
+body{
+    margin:0;
+}
+.block{
+    margin: 0 70px 0 70px;
+}
+
+.header{
+    margin: 70px 0 70px 70px;
+}
+.logo{
+   text-transform: uppercase;
+   height: 23px;
+   font-size: 25px;
+   letter-spacing: 5px;
+   line-height: 25px;
+   font-family: "Inconsolata";
+   text-align: center;
+}
+.header__title{
+   width: 119px;
+}
+.title__link{
+    text-decoration: none;
+    color: #2e2c29;
+}
+
+.header__inf-pg{
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    list-style: none;
+    display: inline-block;
+    font-size: 14px;
+    font-family: "Arial";
+    text-align: center;
+}
+.header__lifestyle{
+    margin: 0 115px 0 355px;
+    list-style: none;
+    display: inline-block;
+}
+.header__photo{
+    margin-right: 95px;
+    list-style: none;
+    display: inline-block;
+}
+.header__music{
+    margin-right: 90px;
+    list-style: none;
+    display: inline-block;
+    
+}
+.header__travel{
+    list-style: none;
+    display: inline-block;
+}
+
+.item__link{
+    color: #626262;
+    text-decoration: none;
+}
+.main{
+    width: 1065px;
+    height: 1460px;
+    margin-left: 143px;
+}
+.main_top{
+    margin: 75px 60px 64px 77px;   
+}
+.main_left, .main_right{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.main_left{
+    margin-left: 14px;
+    width:654px; 
+    
+}
+
+.main_right{
+    box-sizing: border-box;
+    width: 273px; 
+    margin-left: 49px
+}
+
+.main__title{
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #b4ad9e;
+    font-family: "Arial";
+}
+
+.title__photodiary{
+    font-size: 28.5px;
+    color: #626262;
+    font-family: "Arial";
+    margin: 0 0 27px 0;
+}
+
+.dairy__content{
+    margin-bottom: 88px;
+}
+.dairy__text{
+    font-size: 14px;
+    line-height: 24px;
+    color: #626262;
+    font-family: "Arial";
+}
+.dairy__image{
+    margin-bottom: 16px;
+}
+
+.author_image{
+    margin: 25px 0px 0 0;
+}
+
+.about__author{
+    font-weight: 300;
+    margin: 24px 0 12px -2.4px; 
+    font-size: 23px;
+    line-height: 20px;
+    color: #626262;
+    font-family: "Arial";
+}
+
+.about-author__content{
+    margin-left: -3px; 
+    font-size: 12px;
+    line-height: 20px;
+    color: #626262;
+    font-family: "Arial";
+}
+.top_posts{
+    margin: 29px 0 30px -2px;
+}
+.author_posts{
+    margin: 0;
+    padding-left: 17px;
+}
+.li_item{
+    color: #b4ad9e;
+    content: "•";
+}
+.post__link{
+    margin-left: 11px;
+    font-size: 16px;
+    color: #626262;
+    font-family: "Arial";
+}
+.comments{
+    margin: 10px 0 25px 11px;
+}
+.comment__link{
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #b4ad9e;
+    font-family: "Arial";
+}
+.footer{
+    height: 98px;
+    background-color: #f0f0f0;
+}
+.footer__content{
+    margin:  0 0 0 113px;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    font-family: "Arial";
+}
+.footer__item{ 
+    margin:35px 14px 0 3px; 
+    list-style: none;
+    display: inline-block;
+}
+.footer__link{
+    text-decoration: none;
+}
