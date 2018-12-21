@@ -21,6 +21,7 @@ body{
    width: 119px;
 }
 .title__link{
+    padding-top: 35px;
     text-decoration: none;
     color: #2e2c29;
 }
@@ -36,7 +37,7 @@ body{
     text-align: center;
 }
 .header__lifestyle{
-    margin: 0 115px 0 355px;
+    margin: 0 115px 0 360px;
     list-style: none;
     display: inline-block;
 }
@@ -163,7 +164,7 @@ body{
     background-color: #f0f0f0;
 }
 .footer__content{
-    margin:  0 0 0 113px;
+    margin:  0 0 0 184px;
     font-size: 14px;
     line-height: 24px;
     color: #000000;
